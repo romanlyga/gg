@@ -23,7 +23,6 @@ sections:
     light_title: true
     featured_products:
       - src/pages/products/plant1.md
-      - src/pages/products/product-5w3a5tt5y.md
       - src/pages/products/plant2.md
       - src/pages/products/plant3.md
       - src/pages/products/plant5.md
