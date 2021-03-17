@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: product
+category: src/pages/category/category-ct6bat04g.md
 ---
 ## Lorem ipsum
 
